@@ -11,4 +11,8 @@ const Config = [
     path: "test",
     element: "test",
   },
+  {
+    path: "raise",
+    element: "raise",
+  },
 ];
