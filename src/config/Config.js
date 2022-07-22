@@ -7,4 +7,8 @@ const Config = [
     path: "rating",
     element: "rating",
   },
+  {
+    path: "test",
+    element: "test",
+  },
 ];
