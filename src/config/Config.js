@@ -15,4 +15,8 @@ const Config = [
     path: "raise",
     element: "raise",
   },
+  {
+    path: "helloworld",
+    element: "helloworld",
+  },
 ];
